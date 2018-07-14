@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
+JavaFX Layout VBox Demo
 =======================
 
-Show a window with `Hello, JavaFX` label.
+Layout -> `VBox`
 
